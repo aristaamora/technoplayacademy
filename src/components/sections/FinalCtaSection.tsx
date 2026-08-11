@@ -12,7 +12,7 @@ export default function FinalCtaSection() {
           </p>
         </div>
         <div className="flex items-center justify-start">
-          <Button className="w-full min-w-[180px]">Jelajahi Program</Button>
+          <Button href="#program" className="w-full min-w-[180px]">Jelajahi Program</Button>
         </div>
       </div>
     </section>

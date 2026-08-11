@@ -16,9 +16,9 @@ export default function Navbar() {
           <Link to="/" className="transition hover:text-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cyan/80 focus-visible:ring-offset-2 focus-visible:ring-offset-deepNavy">
             Beranda
           </Link>
-          <a href="#program" className="transition hover:text-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cyan/80 focus-visible:ring-offset-2 focus-visible:ring-offset-deepNavy">
+          <Link to="/#program" className="transition hover:text-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cyan/80 focus-visible:ring-offset-2 focus-visible:ring-offset-deepNavy">
             Program
-          </a>
+          </Link>
           <Link to="/about" className="transition hover:text-white focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cyan/80 focus-visible:ring-offset-2 focus-visible:ring-offset-deepNavy">
             About
           </Link>

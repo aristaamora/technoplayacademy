@@ -11,7 +11,7 @@ export default function AboutPage() {
             <p className="section-copy text-slate-300">
               Technoplay Academy adalah tempat belajar terintegrasi untuk coding, mekatronika, robotika, elektronika, dan desain 2D/3D. Di sini, siswa menemukan teknologi melalui eksplorasi, membangun ide lewat praktik, dan menciptakan karya yang bermakna.
             </p>
-            <Button href="/#program">Jelajahi Program</Button>
+            <Button href="/technoplayacademy/#program">Jelajahi Program</Button>
           </div>
           <div className="rounded-[2rem] border border-cyan/10 bg-slate-950/90 p-8 shadow-soft">
             <h2 className="section-heading">Identitas Pembelajaran</h2>
@@ -172,7 +172,7 @@ export default function AboutPage() {
               Temukan bagaimana Junior, Basic, dan Explorer membantu siswa mengubah rasa ingin tahu menjadi proyek teknologi nyata.
             </p>
           </div>
-          <Button href="/#program">Jelajahi Program</Button>
+          <Button href="/technoplayacademy/#program">Jelajahi Program</Button>
         </div>
       </section>
     </section>

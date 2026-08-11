@@ -15,7 +15,7 @@ export default function HeroSection() {
             Technoplay Academy menggabungkan coding, mekatronika, robotika, elektronika, dan desain 2D/3D dalam pengalaman belajar yang menyenangkan dan nyata.
           </p>
           <div className="flex flex-col gap-4 sm:flex-row sm:items-center">
-            <Button className="min-w-[180px]">Jelajahi Program</Button>
+            <Button href="#program" className="min-w-[180px]">Jelajahi Program</Button>
             <Button variant="ghost" className="min-w-[180px] border-white/10 text-slate-100 hover:border-electricBlue/50">
               Hubungi Kami
             </Button>
