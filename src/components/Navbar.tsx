@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom';
 
 export default function Navbar() {
   return (
-    <header className="sticky top-0 z-50 border-b border-slate-800/90 bg-deepNavy/95 backdrop-blur-xl">
+    <header className="sticky top-0 z-50 w-full border-b border-slate-800/90 bg-deepNavy/95 backdrop-blur-xl">
       <div className="mx-auto flex max-w-6xl flex-col gap-4 px-4 py-4 sm:flex-row sm:items-center sm:justify-between sm:px-6 lg:px-8">
         <div className="flex items-center gap-4">
           <Link to="/" className="text-lg font-semibold tracking-[0.02em] text-cyan sm:text-xl">

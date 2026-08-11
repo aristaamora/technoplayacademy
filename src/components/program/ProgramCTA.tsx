@@ -11,7 +11,7 @@ export default function ProgramCTA() {
             Hubungi tim Technoplay Academy untuk mendiskusikan program Junior, Basic, atau Explorer dan pilih jalur yang tepat.
           </p>
         </div>
-        <Button href="/technoplayacademy/#program" className="w-full min-w-[180px] sm:w-auto">
+        <Button to="/contact" className="w-full min-w-[180px] sm:w-auto">
           Hubungi Kami
         </Button>
       </div>
